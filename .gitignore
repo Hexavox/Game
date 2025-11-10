@@ -1,6 +1,9 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+# Shit I hate so Im going to make it ignored
+*.log
+
 # Compiled Object files
 *.slo
 *.lo
