@@ -76,3 +76,5 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Game/Saved/Logs/Game.log
+/Game/Saved/Logs
