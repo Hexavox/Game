@@ -1165,3 +1165,111 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.10-19.16.11:711][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2025.11.10-19.16.11:712][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2025.11.10-19.16.11:712][  0]LogSlate: Took 0.000061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.11.10-19.16.11:762][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.11.10-19.16.11:790][  0]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.10-19.16.11:901][  0]LogFileManager: Warning: DeleteFile was unable to delete 'C:/Users/frank/OneDrive/Documents/GitHub/Game/Game/Intermediate/CachedAssetRegistry_0.bin', retrying in .5s...
+[2025.11.10-19.16.11:917][  0]LogStall: Startup...
+[2025.11.10-19.16.11:919][  0]LogStall: Startup complete.
+[2025.11.10-19.16.11:921][  0]LogLoad: (Engine Initialization) Total time: 7.48 seconds
+[2025.11.10-19.16.12:129][  0]LogAssetRegistry: AssetRegistryGather time 0.1225s: AssetDataDiscovery 0.0184s, AssetDataGather 0.0534s, StoreResults 0.0507s. Wall time 3.7370s.
+	NumCachedDirectories 7. NumUncachedDirectories 1454. NumCachedFiles 7377. NumUncachedFiles 0.
+	BackgroundTickInterruptions 0.
+[2025.11.10-19.16.12:139][  0]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2025.11.10-19.16.12:145][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.11.10-19.16.12:145][  0]LogSourceControl: Uncontrolled asset discovery started...
+[2025.11.10-19.16.12:165][  0]LogSourceControl: Uncontrolled asset discovery finished in 0.019732 seconds (Found 0 uncontrolled assets)
+[2025.11.10-19.16.12:326][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.11.10-19.16.12:326][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="1000"
+[2025.11.10-19.16.12:377][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-19.16.12:378][  0]LogPython: Display: Running start-up script E:/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.11.10-19.16.12:396][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.11.10-19.16.12:404][  0]LogPython: Display: Running start-up script E:/UE_5.6/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 26.124 ms
+[2025.11.10-19.16.12:406][  0]LogFileManager: Warning: DeleteFile recovered during retry!
+[2025.11.10-19.16.12:406][  0]LogAssetRegistry: Display: Asset registry cache written as 66.6 MiB to C:/Users/frank/OneDrive/Documents/GitHub/Game/Game/Intermediate/CachedAssetRegistry_*.bin
+[2025.11.10-19.16.13:339][  4]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 3.185711
+[2025.11.10-19.16.13:339][  4]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.11.10-19.16.13:340][  4]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3.515527
+[2025.11.10-19.16.14:662][  8]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.11.10-19.16.15:329][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.172515
+[2025.11.10-19.16.15:330][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -877650155
+[2025.11.10-19.16.15:330][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.172515, Update Interval: 358.824432
+[2025.11.10-19.16.47:610][252]LogSlate: Window 'Plugins' being destroyed
+[2025.11.10-19.16.51:104][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.10-19.17.08:239][769]LogSlate: Window 'Plugins' being destroyed
+[2025.11.10-19.17.14:300][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.10-19.17.16:469][549]LogProjectBrowser: Looking for projects...
+[2025.11.10-19.17.16:469][549]LogProjectBrowser: Found Engine Installation "5.6"(E:/UE_5.6)
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Enumerating Projects From Engine Ver: 5.6
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Looking for directories to scan from : C:/Users/frank/AppData/Local/UnrealEngine/5.6/Saved/Config/WindowsEditor
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Searching for previously created project directories...
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Found directory: "C:/Users/frank/OneDrive/Documents/Unreal Projects"
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Found project "(ProjectName="C:/Users/frank/OneDrive/Documents/Unreal Projects/athomeproject/athomeproject.uproject",LastOpenTime=2025.10.12-07.23.40)" in recently opened files
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Found project "(ProjectName="C:/Users/frank/Downloads/ArcadeShooter/ArcadeShooter/ArcadeShooter.uproject",LastOpenTime=2025.11.08-17.40.02)" in recently opened files
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Found project "(ProjectName="C:/Users/frank/OneDrive/Desktop/GDArchives/ArcadeShooter/ArcadeShooter/ArcadeShooter.uproject",LastOpenTime=2025.11.10-05.12.24)" in recently opened files
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Found project "(ProjectName="C:/Users/frank/OneDrive/Documents/Unreal Projects/my2dot5deetest/my2dot5deetest.uproject",LastOpenTime=2025.11.10-05.50.06)" in recently opened files
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Found project "(ProjectName="C:/Users/frank/OneDrive/Documents/GitHub/Game/Game/Game.uproject",LastOpenTime=2025.11.10-19.16.10)" in recently opened files
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Found project "C:/Users/frank/OneDrive/Documents/Unreal Projects/athomeproject/athomeproject.uproject" in previously created project directory
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Found project "C:/Users/frank/OneDrive/Documents/Unreal Projects/my2dot5deetest/my2dot5deetest.uproject" in previously created project directory
+[2025.11.10-19.17.16:469][549]LogDesktopPlatform: Searching for projects in .uprojectdirs
+[2025.11.10-19.17.16:469][549]LogProjectBrowser: Enumerating Launcher Sample Projects...
+[2025.11.10-19.17.16:662][549]ImportText (Variants): Missing closing parenthesis: (Name="TwinStick",LocalizedDisplayNames=((Language="en",Text="Twin Stick"),(Language="ja",Text="ツインスティック"),(Language="ko",Text="트윈 스틱"),(Language="zh-Hans",Text="双摇杆游戏模板")),LocalizedDescriptions=((Language="en",Text="A twin stick shooter game with infinitely spawning enemies."),(Language="ja",Text="敵が無限にスポーンするツイン スティック シューティング ゲーム"),(Language="ko",Text="무한히 생성되는 적을 상대하는 트윈 스틱 슈팅 게임입니다."),(Language="zh-Hans",Text="一款双摇杆设计游戏，具有无限刷新的敌人。")),SharedContentPacks=((DetailLevels=(Standard),MountName="Variant_TwinStick"),(MountName="Input",DetailLevels=("High")))
+[2025.11.10-19.17.16:662][549]ImportText (Variants): Missing closing parenthesis: (Name="All",LocalizedDisplayNames=((Language="en",Text="All"),(Language="ja",Text="All (全員)"),(Language="ko",Text="모두"),(Language="zh-Hans",Text="全部")),LocalizedDescriptions=((Language="en",Text="Includes all Top Down variants."),(Language="ja",Text="すべてのトップダウン バリアントが含まれています"),(Language="ko",Text="모든 탑 뷰 베리언트를 포함합니다."),(Language="zh-Hans",Text="包含全部第三人称模板变体。")),SharedContentPacks=((DetailLevels=(Standard),MountName="Variant_TwinStick"),(DetailLevels=(Standard),MountName="Variant_Strategy"),(MountName="Input",DetailLevels=("High")))
+[2025.11.10-19.17.18:075][708]Cmd: CLOSE_SLATE_MAINFRAME
+[2025.11.10-19.17.18:087][708]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.11.10-19.17.18:105][708]LogStall: Shutdown...
+[2025.11.10-19.17.18:105][708]LogStall: Shutdown complete.
+[2025.11.10-19.17.18:122][708]LogSlate: Window 'Open Project' being destroyed
+[2025.11.10-19.17.18:129][708]LogSlate: Window 'Game - Unreal Editor' being destroyed
+[2025.11.10-19.17.18:130][708]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.11.10-19.17.18:405][709]Cmd: QUIT_EDITOR
+[2025.11.10-19.17.18:405][710]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.11.10-19.17.18:410][710]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.11.10-19.17.18:413][710]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.11.10-19.17.18:413][710]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.11.10-19.17.18:420][710]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2025.11.10-19.17.18:420][710]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.10-19.17.18:420][710]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2025.11.10-19.17.18:424][710]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.11.10-19.17.18:425][710]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.11.10-19.17.18:425][710]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.11.10-19.17.18:426][710]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.11.10-19.17.18:426][710]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.11.10-19.17.18:430][710]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.11.10-19.17.18:430][710]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.11.10-19.17.18:430][710]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.11.10-19.17.18:430][710]LogAudio: Display: Audio Device unregistered from world 'Untitled_1'.
+[2025.11.10-19.17.18:430][710]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.11.10-19.17.18:430][710]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.11.10-19.17.18:433][710]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.11.10-19.17.18:438][710]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.11.10-19.17.18:438][710]LogAudio: Display: Audio Device Manager Shutdown
+[2025.11.10-19.17.18:441][710]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.11.10-19.17.18:441][710]LogExit: Preparing to exit.
+[2025.11.10-19.17.18:464][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.11.10-19.17.19:303][710]LogEditorDataStorage: Deinitializing
+[2025.11.10-19.17.19:407][710]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.11.10-19.17.19:419][710]LogExit: Editor shut down
+[2025.11.10-19.17.19:420][710]LogExit: Transaction tracking system shut down
+[2025.11.10-19.17.19:464][710]LogExit: Object subsystem successfully closed.
+[2025.11.10-19.17.19:498][710]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.11.10-19.17.19:528][710]LogMemoryProfiler: Shutdown
+[2025.11.10-19.17.19:528][710]LogNetworkingProfiler: Shutdown
+[2025.11.10-19.17.19:528][710]LoadingProfiler: Shutdown
+[2025.11.10-19.17.19:528][710]LogTimingProfiler: Shutdown
+[2025.11.10-19.17.19:528][710]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.11.10-19.17.19:528][710]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.11.10-19.17.20:289][710]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.11.10-19.17.20:289][710]RenderDocPlugin: plugin has been unloaded.
+[2025.11.10-19.17.20:297][710]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.10-19.17.20:332][710]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.11.10-19.17.20:332][710]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC213152E-4069-57E9-AA60-03972298F5DB%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=ce96930443256179fc9c0b85bc13dc55%7C7d3022389e544ea5ace093360a662d7f%7C086ab9b0-e6ba-473e-8b9a-56cfe00987af&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.10-19.17.20:864][710]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.10-19.17.20:866][710]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.10-19.17.20:866][710]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.10-19.17.20:866][710]LogPakFile: Destroying PakPlatformFile
+[2025.11.10-19.17.21:297][710]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.10-19.17.21:378][710]LogExit: Exiting.
+[2025.11.10-19.17.21:392][710]Log file closed, 11/10/25 11:17:21
