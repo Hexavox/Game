@@ -7503,3 +7503,6 @@ Make sure '/Game/Blueprints/KidRedBP/BP_KidRed.BP_KidRed_C' has been compiled fo
 [2025.11.11-00.32.02:439][498]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/ChaosVD/Content' is outside repository at 'C:/Users/hexav/OneDrive/Documents/GitHub/Game'
 [2025.11.11-00.32.02:439][498]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content: 'C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/hexav/OneDrive/Documents/GitHub/Game'
 [2025.11.11-00.32.02:514][498]EditorErrors: Warning: No assets to check in!
+[2025.11.11-00.35.59:363][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11515.357422
+[2025.11.11-00.36.00:362][376]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.11-00.36.00:362][376]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11516.024414, Update Interval: 353.708313
